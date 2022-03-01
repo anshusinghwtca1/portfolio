@@ -133,26 +133,6 @@ ul.navbar-nav {
 	height: 10px;
 	background: darkslategray;
 }
-.progress-items .nin::before{
-	content: '90%';
-	position: absolute;
-	left: 400px;
-}
-.progress-items .five::before{
-	content: '55%';
-	position: absolute;
-	left: 830px;
-}
-.progress-items .fifty::before{
-	content: '50%';
-	position: absolute;
-	left: 400px;
-}
-.progress-items .ghik::before{
-	content: '50%';
-	position: absolute;
-	left: 830px;
-}
 @media (max-width: 576px){
 .navbar-expand-sm{
 	padding: 0;
