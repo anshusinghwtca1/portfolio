@@ -183,16 +183,4 @@ ul.navbar-nav {
 .profile-title h1{
 	font-size: 2.5rem;
 }
-.progress-items .nin::before{
-	left: 280px;
-}
-.progress-items .five::before{
-	left: 280px;
-}
-.progress-items .fifty::before{
-	left: 280px;
-}
-.progress-items .ghik::before{
-	left: 280px;
-}
 }
